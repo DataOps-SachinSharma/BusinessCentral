@@ -19,6 +19,8 @@ By default, users are granted the Read and manage permissions and the Send as pe
 
 Steps to Create Shared Mailbox in Outlook 365 Using the Exchange Admin Center
 "https://admin.cloud.microsoft/?#/homepage"
+
+--  "https://entra.microsoft.com/#view/Microsoft_AAD_IAM/PasswordResetMenuBlade/~/Properties"  Microsft entra admin center link 
 Step 1. Navigate to Recipients >> Mailboxes >> Click + Add a shared mailbox.
 
 Step 2. Enter the Display Name, Email address (does not fill automatically), and Alias (optional) >> Then, click Create.
