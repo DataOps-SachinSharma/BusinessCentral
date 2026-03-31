@@ -18,6 +18,7 @@ Step 4. Click + Add members, search for and select users, then click Add (# repr
 By default, users are granted the Read and manage permissions and the Send as permissions. There is a third type called Send on behalf of permissions. Admins must note that a user can’t hold both Send As and Send on behalf of permissions simultaneously.
 
 Steps to Create Shared Mailbox in Outlook 365 Using the Exchange Admin Center
+"https://admin.cloud.microsoft/?#/homepage"
 Step 1. Navigate to Recipients >> Mailboxes >> Click + Add a shared mailbox.
 
 Step 2. Enter the Display Name, Email address (does not fill automatically), and Alias (optional) >> Then, click Create.
